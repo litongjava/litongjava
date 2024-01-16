@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me ...  
 Email: litongjava001@gmail.com  
-wechat: jdk131219
+wechat: jdk131219  
 Total stars I earned ![Total stars](https://img.shields.io/github/stars/litongjava?affiliations=OWNER%2CCOLLABORATOR)  
 
 
